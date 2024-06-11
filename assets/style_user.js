@@ -5,7 +5,7 @@ const styles = StyleSheet.create({
     flex: 1,
     backgroundColor: '#476358',
     alignItems: 'center',
-    width: 410,
+    width: '100%',
     justifyContent: 'flex-start   ',
   },
   icons_container: {
@@ -14,7 +14,7 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
     flexDirection: 'row',
     flexWrap: 'wrap',
-    marginTop: 25,
+    marginTop: '5%',
   },
   icon: {
     backgroundColor: '#fff',
@@ -31,7 +31,7 @@ const styles = StyleSheet.create({
   },
   subtittle: {
     fontSize: 20,
-    marginBottom: '65%',
+    marginBottom: '60%',
     fontWeight: 'bold',
     color: '#C7E8E8',
   }
